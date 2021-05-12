@@ -1,2 +1,2 @@
 # pythonExercises
-doing stuff in python
+doing stuff with python
